@@ -1,7 +1,8 @@
 <?php
-/*
-Template Name: Landing Page
-*/
+/**
+ * Template Name: Landing Page
+ * Description: Un modèle de landing page personnalisée.
+ */
 
 get_header();
 ?>
