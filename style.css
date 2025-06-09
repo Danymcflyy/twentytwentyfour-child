@@ -7,3 +7,12 @@ Author URI:     https://github.com/danymcflyy
 Template:       twentytwentyfour
 Version:        1.0.0
 */
+/* Exemple de style personnalisé */
+body {
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #2c3e50;
+    font-family: 'Arial', sans-serif;
+}
